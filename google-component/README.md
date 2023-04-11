@@ -1,11 +1,18 @@
 # Getting Started with Create React App
 
-components breakdown
+#components breakdown
 
-GoogleApp{
+##GoogleApp
 
- Header [NavList, AppLauncher, Profile]
-Main [ButtonComponents, LanguageLinks]
-SearchBar[Footer, FooterNavList]
+ - Header 
+   - NavList
+   - AppLauncher
+   - Profile
+- Main
+  - ButtonComponents
+  - LanguageLinks
+- SearchBar
+  - Footer
+  - FooterNavList
 
-}
+
